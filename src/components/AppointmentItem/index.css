@@ -1,0 +1,50 @@
+.bg7 {
+  background-color: transparent;
+  border: 1px solid #171f46;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin: 8px;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.bg8 {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+
+.h4 {
+  font-family: 'Roboto';
+  color: #171f46;
+  font-size: 20px;
+  margin-right: 40px;
+}
+
+.img2 {
+  width: 30px;
+  height: 30px;
+  margin-left: 20px;
+  margin-top: 8px;
+}
+
+.p2 {
+  font-family: 'Roboto';
+  color: #b5b7c4;
+  font-size: 14px;
+  margin-top: 10px;
+}
+
+.btn3 {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
